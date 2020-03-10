@@ -1,6 +1,6 @@
 
 ######## Housekeeping
-setwd('/home/robertpreseau/OneDrive/School/ISTE780/Project')
+setwd('')
 
 rm(list=ls()) 
 dev.off()
