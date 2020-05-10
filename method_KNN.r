@@ -1,5 +1,4 @@
-#setwd('/home/chris/Datasets')
-setwd('C:\\Users\\rober\\OneDrive\\School\\ISTE780\\Project')
+
 
 rm(list=ls())
 
